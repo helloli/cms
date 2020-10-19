@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "admin123",
+    "database": "cms",
+    "port": 3306,
+    "multipleStatements": true
+  }
+}
